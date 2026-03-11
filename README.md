@@ -1,0 +1,1 @@
+This webpage generate ramdom charaect, and movies for starts war. 

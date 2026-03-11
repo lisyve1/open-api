@@ -1,5 +1,4 @@
 const SWAPI_BASEURL = "https://www.swapi.tech/api";
-
 async function getRandomCharacter() {
     try {
         const randomId = Math.floor(Math.random() * 83) + 1;
